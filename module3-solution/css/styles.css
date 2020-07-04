@@ -1,0 +1,68 @@
+body{
+ background-color: white;
+ font-family: 'Balsamiq Sans', cursive;
+  color:black;
+  
+}
+#header-nav{
+   background-color: gray;
+  border-radius:0;
+  border: 2px solid black;
+  
+  
+}
+.navbar-brand h1{
+ color:black;
+ font-family: 'Balsamiq Sans', cursive;
+ margin-top: 0px;
+ padding-top: 10px;
+ font-size: 30px;
+ font-style: bold;
+}
+.row{
+width: 100%;
+margin:5px;
+margin-left: auto;
+margin-right: auto;
+}
+h2{
+ margin-top: 0px;
+}
+h3{
+  margin-top: 0px;
+}
+
+#box{
+  background-color:gray;
+  padding:15px;
+  color:black;
+  margin-top: 40px;
+  box-sizing: border-box;
+}
+#nav-list {
+
+  
+  background-color: white;
+ 
+}
+#nav-list{
+  text-align: center;
+}
+#nav-list span {
+  font-size: 1.2em;
+}
+hr{
+  width: 100%;
+  border-color: black;
+  border-width: 5px solid black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+
+}
+
